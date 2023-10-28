@@ -1,0 +1,386 @@
+id,question,options
+835,"<p><span style=""background-color:transparent; color:#000000"">Pointing to a photograph on the wall, Anil says to Nitesh, &ldquo; The person in the photograph is the son of my mother&rsquo;s sister and is your brother&rdquo;. Which of the following is true?</span></p>","[{""label"": ""Nitesh is Anil’s nephew"", ""value"": ""A""}, {""label"": ""Anil is Nitesh’s brother-in-law"", ""value"": ""B""}, {""label"": ""Nitesh’s mother is Anil’s sister"", ""value"": ""C""}, {""label"": ""Anil and Nitesh are cousins"", ""value"": ""D""}]"
+805,"<p><span style=""background-color:transparent; color:#000000"">&nbsp;turn/ sleep/ go/ and/ light/ the/ off/ to</span></p>","[{""label"": ""4/6/5/1/7/8/3/2"", ""value"": ""A""}, {""label"": ""5/1/7/4/3/2/6/8"", ""value"": ""B""}, {""label"": ""1/6/5/7/4/3/8/2"", ""value"": ""C""}, {""label"": ""2/4/1/7/6/5/3/8"", ""value"": ""D""}, {""label"": ""none of the above"", ""value"": ""E""}]"
+801,"<p><span style=""background-color:transparent; color:#000000"">Did the Indian audience like Roy&rsquo;s movies?</span></p>","[{""label"": "" Yes, they saw the movies like they were a poetic record of Indian life"", ""value"": ""A""}, {""label"": ""No, they did not appreciate how Roy portrayed Indian life on screen"", ""value"": ""B""}, {""label"": ""Yes, they felt that Roy was very intricately choosing his characters and was very compassionate towards each of them"", ""value"": ""C""}, {""label"": ""No, they believed that the movies weren’t attention grabbing in the traditional sense"", ""value"": ""D""}, {""label"": ""none of the above"", ""value"": ""E""}]"
+839,"<p><span style=""background-color: transparent; color: rgb(0, 0, 0);"">Nine individuals - Z, Y, X, W, V, U, T, S and R - are the only candidates, who can serve on three committees A, B and C, and each candidate should serve on exactly one of the committees.</span></p><ol><li><span style=""background-color: transparent; color: rgb(0, 0, 0);"">Committee A should consist of exactly one member more than committee B.</span></li><li><span style=""background-color: transparent; color: rgb(0, 0, 0);"">It is possible that there are no members of committee C.</span></li><li><span style=""background-color: transparent; color: rgb(0, 0, 0);"">Among Z, Y and X none can serve on committee A.</span></li><li><span style=""background-color: transparent; color: rgb(0, 0, 0);"">Among W, V and U none can serve on committee B.</span></li><li><span style=""background-color: transparent; color: rgb(0, 0, 0);"">Among T, S and R none can serve on committee C.</span></li></ol><p><br></p><p><span style=""background-color: transparent; color: rgb(0, 0, 0);"">&nbsp;In case R is the only individual serving on committee B, which among the following should serve on committee A?</span></p>","[{""label"": ""W and S"", ""value"": ""A""}, {""label"": ""V and T"", ""value"": ""B""}, {""label"": ""U and S"", ""value"": ""C""}, {""label"": ""T and S"", ""value"": ""D""}]"
+840,"<p><span style=""background-color: transparent; color: rgb(0, 0, 0);"">Nine individuals - Z, Y, X, W, V, U, T, S and R - are the only candidates, who can serve on three committees A, B and C, and each candidate should serve on exactly one of the committees.</span></p><ol><li><span style=""background-color: transparent; color: rgb(0, 0, 0);"">Committee A should consist of exactly one member more than committee B.</span></li><li><span style=""background-color: transparent; color: rgb(0, 0, 0);"">It is possible that there are no members of committee C.</span></li><li><span style=""background-color: transparent; color: rgb(0, 0, 0);"">Among Z, Y and X none can serve on committee A.</span></li><li><span style=""background-color: transparent; color: rgb(0, 0, 0);"">Among W, V and U none can serve on committee B.</span></li><li><span style=""background-color: transparent; color: rgb(0, 0, 0);"">Among T, S and R none can serve on committee C.</span></li></ol><p><br></p><p><span style=""background-color: transparent; color: rgb(0, 0, 0);"">In case T, S and X are the only individuals serving on committee B, the total membership of committee C should be</span></p>","[{""label"": ""Z and Y"", ""value"": ""A""}, {""label"": ""Z and W"", ""value"": ""B""}, {""label"": ""Y and V"", ""value"": ""C""}, {""label"": ""Y and U"", ""value"": ""D""}]"
+831,"<p><span style=""background-color:transparent"">A piece of rope 36 feet long is to be cut into two pieces so that one piece is 1 /3 as long as the other piece. How many feet long will the shorter piece be?</span></p>","[{""label"": ""24"", ""value"": ""A""}, {""label"": ""12"", ""value"": ""B""}, {""label"": ""27"", ""value"": ""C""}, {""label"": ""18"", ""value"": ""D""}, {""label"": ""9"", ""value"": ""E""}]"
+834,"<p><span style=""background-color:transparent"">P and Q are sisters and R and S are brothers. P&rsquo;s daughter is S&rsquo;s sister. How is Q related to R?</span></p>","[{""label"": ""Maternal aunt "", ""value"": ""A""}, {""label"": "" Niece "", ""value"": ""B""}, {""label"": ""Nephew "", ""value"": ""C""}, {""label"": ""Grandmother"", ""value"": ""D""}]"
+887,"<p><span style=""background-color:transparent; color:#000000"">How many vowels are there in the following statement:</span></p>
+
+<p>&nbsp;</p>
+
+<p><span style=""background-color:transparent; color:#000000"">&ldquo;YOU BECOME A PRODUCT OF WHAT YOU THINK&rdquo;</span></p>","[{""label"": ""10"", ""value"": ""A""}, {""label"": ""11"", ""value"": ""B""}, {""label"": ""12"", ""value"": ""C""}, {""label"": ""13"", ""value"": ""D""}]"
+881,"<p><span style=""background-color:transparent; color:#000000"">Statement A - the electives for the upcoming semester were parapsychology, physics, astronomy, mediaeval mathematics, and alchemy, but the students voted them as uninteresting.</span></p>
+
+<p>&nbsp;</p>
+
+<p><span style=""background-color:transparent; color:#000000"">Statement B - the electives for the upcoming semester were parapsychology, physcics, astrology, mediaeval mathematics, and alchemy, but the students votoed them as uninteresting.</span></p>
+
+<p>&nbsp;</p>
+
+<p><span style=""background-color:transparent; color:#000000"">﻿How many words were copied wrong in statement B?</span></p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>","[{""label"": ""0 words"", ""value"": ""A""}, {""label"": ""1 word"", ""value"": ""B""}, {""label"": ""2 words"", ""value"": ""C""}, {""label"": ""3 words"", ""value"": ""D""}]"
+849,"<p><span style=""background-color: transparent; color: rgb(0, 0, 0);"">&nbsp;All Germans speak Italian. All Italian speakers write novels.&nbsp;</span></p><p><span style=""background-color: transparent; color: rgb(0, 0, 0);"">Which of the following statements must be true?</span></p><p><br></p><p><br></p>","[{""label"": ""All Italians speak German"", ""value"": ""A""}, {""label"": ""All authors are German"", ""value"": ""B""}, {""label"": ""All Germans write novels"", ""value"": ""C""}, {""label"": ""Some of the Italians writing books are Germans"", ""value"": ""D""}, {""label"": ""none of the above"", ""value"": ""E""}]"
+869,"<p><span style=""background-color:transparent; color:#000000""><img src=""https://d2ny4i6ieyrjfu.cloudfront.net/prod/ASSESSMENT_PROCESSOR/9MUH5Z_image4 pant.jpg"" /></span></p>
+
+<p><span style=""background-color:transparent; color:#000000"">How many holes do these pants have?</span></p>","[{""label"": ""5"", ""value"": ""A""}, {""label"": ""7"", ""value"": ""B""}, {""label"": ""9"", ""value"": ""C""}, {""label"": ""11"", ""value"": ""D""}]"
+872,"<p><span style=""background-color:transparent; color:#000000""><img src=""https://d2ny4i6ieyrjfu.cloudfront.net/prod/ASSESSMENT_PROCESSOR/OVGN6U_sqauresss.png"" /></span></p>
+
+<p><span style=""background-color:transparent; color:#000000"">How many squares are there in the image?</span></p>","[{""label"": ""4"", ""value"": ""A""}, {""label"": ""6"", ""value"": ""B""}, {""label"": ""9"", ""value"": ""C""}, {""label"": ""10"", ""value"": ""D""}]"
+820,"<p><span style=""background-color:transparent; color:#000000"">The number missing in the series 2, 5, 10, 17,______, 37, 50, 65 is?</span></p>","[{""label"": ""27"", ""value"": ""A""}, {""label"": ""22"", ""value"": ""B""}, {""label"": ""24"", ""value"": ""C""}, {""label"": ""26"", ""value"": ""D""}, {""label"": ""21"", ""value"": ""E""}]"
+876,"<p><span style=""background-color:transparent; color:#333333"">Compare the samples on the left to the samples on the right.</span></p>
+
+<p>&nbsp;</p>
+
+<p><span style=""background-color:transparent; color:#333333"">Select the option on the right side that matches the sample on the left.</span></p>
+
+<p>&nbsp;</p>
+
+<table border=""1"" cellpadding=""1"" cellspacing=""1"" class=""questions-table"" style=""line-height:unset; width:500px"">
+	<tbody>
+		<tr>
+			<td><span style=""background-color:transparent; color:#000000"">586986&nbsp;</span></td>
+			<td><span style=""background-color:transparent; color:#000000""><strong>A. </strong>568698</span></td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td><span style=""background-color:transparent; color:#000000""><strong>B.</strong> 569865</span></td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td><span style=""background-color:transparent; color:#000000""><strong>C.</strong> 565696</span></td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td><span style=""background-color:transparent; color:#000000""><strong>D.</strong> 586986</span></td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>","[{""label"": ""A"", ""value"": ""A""}, {""label"": ""B"", ""value"": ""B""}, {""label"": ""C"", ""value"": ""C""}, {""label"": ""D"", ""value"": ""D""}]"
+884,"<table border=""1"" cellpadding=""1"" cellspacing=""1"" class=""questions-table"" style=""width:500px"">
+	<tbody>
+		<tr>
+			<td><span style=""background-color:#ffffff; color:#000000"">error82184on@dash.com</span></td>
+			<td><span style=""background-color:#ffffff; color:#000000"">error82184on@dash.com</span></td>
+		</tr>
+		<tr>
+			<td><span style=""background-color:#ffffff; color:#000000"">swiftBALTX@payment.com&nbsp;</span></td>
+			<td><span style=""background-color:#ffffff; color:#000000"">swiftBALTX@payment.com</span></td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p><span style=""background-color:transparent; color:#000000"">How many errors are there in the right column?</span></p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>","[{""label"": ""0 errors"", ""value"": ""A""}, {""label"": ""1 error"", ""value"": ""B""}, {""label"": ""2 errors"", ""value"": ""C""}, {""label"": ""3 errors"", ""value"": ""D""}]"
+832,"<p><span style=""background-color:transparent"">To bake two muffins, it takes 3 and&nbsp;</span><strong>1/2</strong><span style=""background-color:transparent""> cups of sugar at about 11 </span>paise<span style=""background-color:transparent"">&nbsp;per cup. How much would it </span><span style=""background-color:transparent; color:#000000"">cost in rupees</span><span style=""background-color:transparent""> to purchase the sugar necessary to make 16 muffins?</span></p>","[{""label"": ""2.42"", ""value"": ""A""}, {""label"": ""3.60"", ""value"": ""B""}, {""label"": ""5.40"", ""value"": ""C""}, {""label"": ""2.92"", ""value"": ""D""}, {""label"": ""3.08"", ""value"": ""E""}]"
+880,"<table border=""1"" cellpadding=""1"" cellspacing=""1"" class=""questions-table"" style=""width:500px"">
+	<tbody>
+		<tr>
+			<td><span style=""background-color:transparent; color:#000000"">Allison #11/680-839</span></td>
+			<td><span style=""background-color:transparent; color:#000000""><strong>A.</strong> allison #11/608-869</span></td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td><span style=""background-color:transparent; color:#000000""><strong>B.</strong> alllision #11/680-839</span></td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td><span style=""background-color:transparent; color:#000000""><strong>C.</strong> allison #11/680-839</span></td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>
+			<p><span style=""background-color:transparent; color:#000000""><strong>D.</strong> alleson #11/680-869</span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p><span style=""background-color:transparent; color:#000000"">Which one matches the left one?</span></p>","[{""label"": ""A"", ""value"": ""A""}, {""label"": ""B"", ""value"": ""B""}, {""label"": ""C"", ""value"": ""C""}, {""label"": ""D"", ""value"": ""D""}]"
+882,"<table border=""1"" cellpadding=""1"" cellspacing=""1"" class=""questions-table"" style=""width:500px"">
+	<tbody>
+		<tr>
+			<td><span style=""background-color:transparent; color:#000000"">BRBR1L72Z68RZ27</span></td>
+			<td><span style=""background-color:#ffffff; color:#000000""><strong>A.</strong> BRBR1L72Z68RZ27</span></td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td><span style=""background-color:#ffffff; color:#000000""><strong>B.</strong> BRBR1L72S68RZ27</span></td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td><span style=""background-color:#ffffff; color:#000000""><strong>C.</strong> BRBR1L72S98RZ27</span></td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td><span style=""background-color:#ffffff; color:#000000""><strong>D.</strong> BRBR!L72Z63RZ27</span></td>
+		</tr>
+	</tbody>
+</table>
+
+<p><span style=""background-color:transparent; color:#000000"">Which option matches the left column?</span></p>
+
+<p>&nbsp;</p>","[{""label"": ""A"", ""value"": ""A""}, {""label"": ""B"", ""value"": ""B""}, {""label"": ""C"", ""value"": ""C""}, {""label"": ""D"", ""value"": ""D""}]"
+837,"<p><span style=""background-color: transparent; color: rgb(0, 0, 0);"">Nine individuals - Z, Y, X, W, V, U, T, S and R - are the only candidates, who can serve on three committees A, B and C, and each candidate should serve on exactly one of the committees.</span></p><ol><li><span style=""background-color: transparent; color: rgb(0, 0, 0);"">Committee A should consist of exactly one member more than committee B.</span></li><li><span style=""background-color: transparent; color: rgb(0, 0, 0);"">It is possible that there are no members of committee C.</span></li><li><span style=""background-color: transparent; color: rgb(0, 0, 0);"">Among Z, Y and X none can serve on committee A.</span></li><li><span style=""background-color: transparent; color: rgb(0, 0, 0);"">Among W, V and U none can serve on committee B.</span></li><li><span style=""background-color: transparent; color: rgb(0, 0, 0);"">Among T, S and R none can serve on committee C.</span></li></ol><p><br></p><p><span style=""background-color: transparent; color: rgb(0, 0, 0);"">In case T and Z are the individuals serving on committee B, how many of the nine individuals should serve on committee C?</span></p>","[{""label"": ""3"", ""value"": ""A""}, {""label"": ""4"", ""value"": ""B""}, {""label"": ""5"", ""value"": ""C""}, {""label"": ""6"", ""value"": ""D""}]"
+841,"<p><span style=""background-color: transparent; color: rgb(0, 0, 0);"">Nine individuals - Z, Y, X, W, V, U, T, S and R - are the only candidates, who can serve on three committees A, B and C, and each candidate should serve on exactly one of the committees.</span></p><ol><li><span style=""background-color: transparent; color: rgb(0, 0, 0);"">Committee A should consist of exactly one member more than committee B.</span></li><li><span style=""background-color: transparent; color: rgb(0, 0, 0);"">It is possible that there are no members of committee C.</span></li><li><span style=""background-color: transparent; color: rgb(0, 0, 0);"">Among Z, Y and X none can serve on committee A.</span></li><li><span style=""background-color: transparent; color: rgb(0, 0, 0);"">Among W, V and U none can serve on committee B.</span></li><li><span style=""background-color: transparent; color: rgb(0, 0, 0);"">Among T, S and R none can serve on committee C.</span></li></ol><p><br></p><p><span style=""background-color: transparent; color: rgb(0, 0, 0);"">Among the following combinations which could constitute the membership of committee C?</span></p>","[{""label"": ""Y and T"", ""value"": ""A""}, {""label"": ""X and U"", ""value"": ""B""}, {""label"": ""Y, X and W"", ""value"": ""C""}, {""label"": ""W, V and U"", ""value"": ""D""}]"
+838,"<p><span style=""background-color: transparent; color: rgb(0, 0, 0);"">Nine individuals - Z, Y, X, W, V, U, T, S and R - are the only candidates, who can serve on three committees A, B and C, and each candidate should serve on exactly one of the committees.</span></p><ol><li><span style=""background-color: transparent; color: rgb(0, 0, 0);"">Committee A should consist of exactly one member more than committee B.</span></li><li><span style=""background-color: transparent; color: rgb(0, 0, 0);"">It is possible that there are no members of committee C.</span></li><li><span style=""background-color: transparent; color: rgb(0, 0, 0);"">Among Z, Y and X none can serve on committee A.</span></li><li><span style=""background-color: transparent; color: rgb(0, 0, 0);"">Among W, V and U none can serve on committee B.</span></li><li><span style=""background-color: transparent; color: rgb(0, 0, 0);"">Among T, S and R none can serve on committee C.</span></li></ol><p><br></p><p><span style=""background-color: transparent; color: rgb(0, 0, 0);"">Of the nine individuals, the largest number that can serve together on committee C is</span></p>","[{""label"": ""9"", ""value"": ""A""}, {""label"": ""8"", ""value"": ""B""}, {""label"": ""7"", ""value"": ""C""}, {""label"": ""6"", ""value"": ""D""}]"
+850,"<p><strong style=""background-color: transparent; color: rgb(0, 0, 0);"">Spatial&nbsp;</strong></p><p><span style=""background-color: transparent; color: rgb(0, 0, 0);"">For the next three questions, each problem consists of one figure on the left of a vertical line and five figures on the right. You are to decide which of the five figures on the right is the </span><strong style=""background-color: transparent; color: rgb(0, 0, 0);"">same </strong><span style=""background-color: transparent; color: rgb(0, 0, 0);"">as the figure on the left.</span></p><p><br></p><p><img src=""https://d2ny4i6ieyrjfu.cloudfront.net/prod/ASSESSMENT_PROCESSOR/VKKU8E_Q 17.png""></p>","[{""label"": ""A"", ""value"": ""A""}, {""label"": ""B"", ""value"": ""B""}, {""label"": ""C"", ""value"": ""C""}, {""label"": ""D"", ""value"": ""D""}, {""label"": ""E"", ""value"": ""E""}]"
+877,"<p>&nbsp;</p>
+
+<table border=""1"" cellpadding=""1"" cellspacing=""1"" class=""questions-table"" style=""width:500px"">
+	<thead>
+		<tr>
+			<th scope=""col"">Address in file</th>
+			<th scope=""col"">Address in yearbook</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+			<p>Micheal Harry&nbsp;</p>
+
+			<p>Apartment #6389 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+
+			<p>771 wonka street &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+
+			<p>Springfield</p>
+			</td>
+			<td>
+			<p>Micheal Harry,</p>
+
+			<p>apartment #6389</p>
+
+			<p>771 wonca street</p>
+
+			<p>springfield</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>","[{""label"": ""There are 4 differences in the addresses"", ""value"": ""A""}, {""label"": ""There are 3 differences in the addresses"", ""value"": ""B""}, {""label"": ""There are 2 differences in the addresses"", ""value"": ""C""}, {""label"": ""There are no differences"", ""value"": ""D""}]"
+806,"<p><span style=""background-color:transparent; color:#000000"">dessert/ will/ served/ dinner/ the/ be/ before</span></p>","[{""label"": ""7/5/1/3/4/2/6"", ""value"": ""A""}, {""label"": ""7/5/4/3/1/2/6"", ""value"": ""B""}, {""label"": ""1/2/6/3/7/5/4"", ""value"": ""C""}, {""label"": ""5/4/2/6/3/7/1"", ""value"": ""D""}, {""label"": ""none of the above"", ""value"": ""E""}]"
+848,"<p>&nbsp;</p>
+
+<p><strong>Deductive&nbsp;</strong></p>
+
+<p><span style=""background-color:transparent; color:#000000"">You will be given a list of statements that will present you with threads of information. You need to understand these statements and conclude the most truthful assumption out of the options</span></p>
+
+<p>&nbsp;</p>
+
+<p><span style=""background-color:transparent; color:#000000"">All medicine courses go on for at least 5 days. All ailments last for a minimum of 2 days.</span></p>
+
+<p><span style=""background-color:transparent; color:#000000"">Which of the following statements must be true?</span></p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>","[{""label"": ""For a long-lasting ailment, the course of action is only 5 days."", ""value"": ""A""}, {""label"": ""Medicines go on in 5-day courses"", ""value"": ""B""}, {""label"": ""Even with a 3-day ailment, the medicine prescribed would last 5 days"", ""value"": ""C""}, {""label"": ""You need to have medicines for 5 days even for a small scratch "", ""value"": ""D""}, {""label"": ""none of the above"", ""value"": ""E""}]"
+803,"<p><span style=""background-color:transparent; color:#000000"">Find a word from the passage that resembles the word meaning of &lsquo;hold&rsquo;/&rsquo;assert&rsquo;</span></p>","[{""label"": ""wander"", ""value"": ""A""}, {""label"": ""claim"", ""value"": ""B""}, {""label"": ""dignity"", ""value"": ""C""}, {""label"": ""unobtrusive"", ""value"": ""D""}, {""label"": ""one of the above"", ""value"": ""E""}]"
+810,"<p><span style=""background-color:transparent; color:#000000"">Cease</span></p>","[{""label"": ""stop"", ""value"": ""A""}, {""label"": ""believe"", ""value"": ""B""}, {""label"": ""trap"", ""value"": ""C""}, {""label"": ""adapt"", ""value"": ""D""}, {""label"": ""prefer"", ""value"": ""E""}]"
+809,"<p><span style=""background-color:transparent; color:#000000"">Indian Cricket Team&rsquo;s success is ___ question. It is thriving.</span></p>","[{""label"": ""for"", ""value"": ""A""}, {""label"": ""too"", ""value"": ""B""}, {""label"": ""beyond"", ""value"": ""C""}, {""label"": ""above"", ""value"": ""D""}, {""label"": ""in"", ""value"": ""E""}]"
+812,"<p><span style=""background-color:transparent; color:#000000"">The recipe needs both ____ and ____ mixed together.</span></p>","[{""label"": ""time and maize"", ""value"": ""A""}, {""label"": "" time and maze"", ""value"": ""B""}, {""label"": ""thyme and maze"", ""value"": ""C""}, {""label"": ""thyme and maize"", ""value"": ""D""}, {""label"": ""none of the above"", ""value"": ""E""}]"
+811,"<p><span style=""background-color:transparent; color:#000000"">Homogeneous</span></p>","[{""label"": ""tactful"", ""value"": ""A""}, {""label"": ""uniform"", ""value"": ""B""}, {""label"": ""incisive"", ""value"": ""C""}, {""label"": ""demonstrative"", ""value"": ""D""}, {""label"": ""alike"", ""value"": ""E""}]"
+788,"<p><span style=""background-color:transparent; color:#000000"">Find a word from the passage that resembles the word meaning of &lsquo;hold&rsquo;/&rsquo;assert&rsquo;</span></p>","[{""label"": ""wander"", ""value"": ""A""}, {""label"": ""claim"", ""value"": ""B""}, {""label"": ""dignity"", ""value"": ""C""}, {""label"": ""unobtrusive"", ""value"": ""D""}, {""label"": ""none of the above"", ""value"": ""E""}]"
+794,"<p><span style=""background-color:transparent; color:#000000"">Indian Cricket Team&rsquo;s success is ___ question. It is thriving.</span></p>","[{""label"": ""for"", ""value"": ""A""}, {""label"": ""too"", ""value"": ""B""}, {""label"": ""beyond"", ""value"": ""C""}, {""label"": ""above"", ""value"": ""D""}, {""label"": ""in"", ""value"": ""E""}]"
+807,"<p><span style=""background-color:transparent; color:#000000"">He has been absent ____ Monday. He should explain this ____ the teachers</span></p>","[{""label"": ""from, to"", ""value"": ""A""}, {""label"": ""for, at"", ""value"": ""B""}, {""label"": ""since, at"", ""value"": ""C""}, {""label"": ""from, at"", ""value"": ""D""}, {""label"": ""since, to"", ""value"": ""E""}]"
+808,"<p><span style=""background-color:transparent; color:#000000"">They are called ___ different names.</span></p>","[{""label"": ""for"", ""value"": ""A""}, {""label"": ""by"", ""value"": ""B""}, {""label"": ""with"", ""value"": ""C""}, {""label"": ""at"", ""value"": ""D""}, {""label"": ""in"", ""value"": ""E""}]"
+800,"<p><span style=""background-color:transparent; color:#000000"">According to the passage, the films of Satyajit Ray are characterised by all of the following except</span></p>","[{""label"": ""Adventure"", ""value"": ""A""}, {""label"": ""Honesty"", ""value"": ""B""}, {""label"": ""Compassion"", ""value"": ""C""}, {""label"": ""Dignity"", ""value"": ""D""}, {""label"": ""none of the above"", ""value"": ""E""}]"
+804,<p>accident/ the/ arrived/ I/occurred/ before</p>,"[{""label"": ""4/3/6/2/1/5"", ""value"": ""A""}, {""label"": ""1/3/6/4/5"", ""value"": ""B""}, {""label"": ""4/5/6/2/1/3"", ""value"": ""C""}, {""label"": ""6/2/1/3/4/5"", ""value"": ""D""}, {""label"": ""none of the above"", ""value"": ""E""}]"
+814,"<p><span style=""background-color:transparent; color:#000000"">The current book ____ says the author made another ____ in Chapter 4.</span></p>","[{""label"": ""edison, edition"", ""value"": ""A""}, {""label"": ""addition, edition"", ""value"": ""B""}, {""label"": ""edition, addition"", ""value"": ""C""}, {""label"": ""addition, edison"", ""value"": ""D""}, {""label"": ""none of the above"", ""value"": ""E""}]"
+802,"<p><span style=""background-color:transparent; color:#000000"">The third film of the Apu trilogy deals with all of the following themes except</span></p>","[{""label"": ""Failure at a major goal"", ""value"": ""A""}, {""label"": ""Loss of a spouse"", ""value"": ""B""}, {""label"": ""Struggles against poverty "", ""value"": ""C""}, {""label"": ""Going home after a long absence"", ""value"": ""D""}, {""label"": ""none of the above"", ""value"": ""E""}]"
+813,"<p><span style=""background-color:transparent; color:#000000"">I paid 40 ____ for that ____.</span></p>","[{""label"": ""cent, scent"", ""value"": ""A""}, {""label"": ""scent, cent"", ""value"": ""B""}, {""label"": ""sent, scent"", ""value"": ""C""}, {""label"": ""cent, sent"", ""value"": ""D""}, {""label"": ""none of the above"", ""value"": ""E""}]"
+836,"<p>Ajanta, Bhowmick, Chander, Devika, Imli and, Faulad are six friends sitting around a round table for a discussion. Ajanta is to the right of Imli and between Imli and Faulad. Imli is positioned opposite Devika. Chander is not in the neighbouring seats of Imli but is a close neighbour of Bhowmick. Who is opposite to Bhowmick?&nbsp;</p>","[{""label"": ""Devika"", ""value"": ""A""}, {""label"": ""Ajanta "", ""value"": ""B""}, {""label"": "" Faulad "", ""value"": ""C""}, {""label"": ""Chander"", ""value"": ""D""}]"
+829,"<p><span style=""background-color:transparent; color:#000000"">Let A, B and C be three positive integers such that the sum of A and the mean of B and C is 5. In addition, the sum of B and the mean of A and C is 7. Then the sum of A and B is</span></p>","[{""label"": ""6"", ""value"": ""A""}, {""label"": ""4"", ""value"": ""B""}, {""label"": ""7"", ""value"": ""C""}, {""label"": ""5"", ""value"": ""D""}]"
+818,"<p>In numerical units, what is the half of 1%?&nbsp;<span style=""background-color:transparent; color:#000000""> &mdash;</span></p>","[{""label"": "".0005"", ""value"": ""A""}, {""label"": ""0.005"", ""value"": ""B""}, {""label"": ""0.002"", ""value"": ""C""}, {""label"": ""0.02"", ""value"": ""D""}]"
+821,"<p><span style=""background-color:transparent; color:#000000"">A train travels 90 km in 270 minutes. What is its average speed in km per hour?</span></p>","[{""label"": ""25"", ""value"": ""A""}, {""label"": ""35"", ""value"": ""B""}, {""label"": ""30"", ""value"": ""C""}, {""label"": ""40"", ""value"": ""D""}, {""label"": ""20"", ""value"": ""E""}]"
+827,"<p>A man bought a car four years ago for ₹4,50,000. Each year the car&#39;s value has decreased by 15% of its original cost. What is the car worth today?&nbsp;</p>","[{""label"": ""2,70,000"", ""value"": ""A""}, {""label"": ""1,50,000"", ""value"": ""B""}, {""label"": "" 2,34,903"", ""value"": ""C""}, {""label"": ""3,28,100"", ""value"": ""D""}, {""label"": ""3,82,500"", ""value"": ""E""}]"
+824,"<p><span style=""background-color:transparent; color:#000000"">If a tool rent is ₹80 for an hour, how much would it cost from 8:30 am to 11 am?</span></p>","[{""label"": ""240"", ""value"": ""A""}, {""label"": ""30"", ""value"": ""B""}, {""label"": ""150"", ""value"": ""C""}, {""label"": ""200"", ""value"": ""D""}, {""label"": ""350"", ""value"": ""E""}]"
+828,"<p><span style=""background-color:transparent; color:#000000"">The age of two persons differs by 20 years. If 5 years ago the elder one is 5 times as old as the younger one, the present age of the younger one is- </span></p>","[{""label"": ""5 years"", ""value"": ""A""}, {""label"": ""9 years"", ""value"": ""B""}, {""label"": ""10 years"", ""value"": ""C""}, {""label"": ""12 years"", ""value"": ""D""}, {""label"": ""8 years"", ""value"": ""E""}]"
+822,"<p>In a long jump competition, Ravi jumped 14ft. 5 in. and Shyam jumped 11 ft. 9 in. How much further did Ravi jump than Shyam?&nbsp;</p>","[{""label"": "" 3ft. 4in"", ""value"": ""A""}, {""label"": ""2ft. 6in"", ""value"": ""B""}, {""label"": ""2ft. 8in"", ""value"": ""C""}, {""label"": ""3ft. 8in"", ""value"": ""D""}, {""label"": ""26ft. 2in"", ""value"": ""E""}]"
+825,"<p><span style=""background-color:transparent; color:#000000"">A family on vacation drove 180 km in four hours. At the same rate, how many hours would it take them to travel 270 km?</span></p>","[{""label"": ""6"", ""value"": ""A""}, {""label"": ""8"", ""value"": ""B""}, {""label"": ""12"", ""value"": ""C""}, {""label"": ""2"", ""value"": ""D""}, {""label"": ""22.5"", ""value"": ""E""}]"
+819,"<p><span style=""background-color:transparent; color:#000000"">If 2 and 1/2 kg of sugar cost ₹75, how many kgs of sugar can be purchased for ₹225?</span></p>","[{""label"": ""4"", ""value"": ""A""}, {""label"": ""3"", ""value"": ""B""}, {""label"": ""7.5"", ""value"": ""C""}, {""label"": ""6.5"", ""value"": ""D""}, {""label"": ""12.5"", ""value"": ""E""}]"
+826,"<p><span style=""background-color:transparent; color:#000000"">The day after tomorrow is my birthday. Next week, the same day is the day of &#39;Holi&#39;. If yesterday was Sunday, what day would be the day after &#39;Holi&#39;.</span></p>","[{""label"": ""Monday"", ""value"": ""A""}, {""label"": ""Thursday"", ""value"": ""B""}, {""label"": ""Wednesday"", ""value"": ""C""}, {""label"": ""Friday"", ""value"": ""D""}, {""label"": ""Saturday"", ""value"": ""E""}]"
+845,"<p><span style=""background-color: transparent; color: rgb(51, 51, 51);"">If in a certain language, BIHAR is coded as CJIBS, how is DELHI coded in that language?</span></p><p><br></p><p><br></p>","[{""label"": ""CDKGH"", ""value"": ""A""}, {""label"": ""EFMIJ"", ""value"": ""B""}, {""label"": ""FGNJK"", ""value"": ""C""}, {""label"": ""IHLED"", ""value"": ""D""}]"
+846,"<p><span style=""background-color: transparent; color: rgb(0, 0, 0);"">&nbsp;</span><span style=""background-color: transparent; color: rgb(51, 51, 51);"">All flowers in the nursery are blue.</span></p><p class=""ql-align-justify""><span style=""background-color: transparent; color: rgb(51, 51, 51);"">II. Some of the flowers are violets.</span></p><p class=""ql-align-justify""><span style=""background-color: transparent; color: rgb(51, 51, 51);"">III. All violets in the nursery are blue.</span></p><p class=""ql-align-justify""><span style=""background-color: transparent; color: rgb(51, 51, 51);"">If the first two statements are true, the third statement is</span></p><p><br></p><p><br></p>","[{""label"": ""False "", ""value"": ""A""}, {""label"": ""True"", ""value"": ""B""}, {""label"": ""Uncertain"", ""value"": ""C""}]"
+847,"<p class=""ql-align-justify""><span style=""background-color: transparent; color: rgb(0, 0, 0);"">Select</span><span style=""background-color: transparent; color: rgb(51, 51, 51);""> three figures out of the following five figures which when fitted into each other would form a square.</span></p><p><br></p><p><img src=""https://d2ny4i6ieyrjfu.cloudfront.net/prod/ASSESSMENT_PROCESSOR/L2MNXU_Q 14.png""></p>","[{""label"": ""1, 2, 4"", ""value"": ""A""}, {""label"": ""1, 2, 5"", ""value"": ""B""}, {""label"": ""5, 3, 1"", ""value"": ""C""}, {""label"": ""2, 3, 4"", ""value"": ""D""}]"
+833,"<p><span style=""background-color:transparent"">If the sum of five consecutive even integers in 740, what is the largest of these integers (source: SAT 2006)</span></p>","[{""label"": ""144"", ""value"": ""A""}, {""label"": ""146"", ""value"": ""B""}, {""label"": ""152"", ""value"": ""C""}, {""label"": ""156"", ""value"": ""D""}]"
+842,"<p><span style=""background-color: transparent; color: rgb(0, 0, 0);"">LAWYER: COURTROOM</span></p><p><br></p><p><br></p>","[{""label"": ""Participant: Team"", ""value"": ""A""}, {""label"": ""Doctor: Clinic"", ""value"": ""B""}, {""label"": ""Teacher: Teaching"", ""value"": ""C""}, {""label"": ""Student: University"", ""value"": ""D""}]"
+843,"<p><span style=""background-color: transparent; color: rgb(0, 0, 0);"">&nbsp;Cat is to mouse as bird is </span><span style=""background-color: transparent; color: rgb(51, 51, 51);"">to</span></p><p><br></p><p><br></p>","[{""label"": ""Bear"", ""value"": ""A""}, {""label"": ""Worm"", ""value"": ""B""}, {""label"": ""Tree"", ""value"": ""C""}, {""label"": ""Vulture"", ""value"": ""D""}]"
+844,"<p><span style=""background-color: transparent; color: rgb(0, 0, 0);"">Arrange the following words in a meaningful sequence.</span></p><p class=""ql-align-justify""><span style=""background-color: transparent; color: rgb(0, 0, 0);"">1. Cow</span></p><p class=""ql-align-justify""><span style=""background-color: transparent; color: rgb(0, 0, 0);"">2. Grass</span></p><p class=""ql-align-justify""><span style=""background-color: transparent; color: rgb(0, 0, 0);"">3. Milk</span></p><p class=""ql-align-justify""><span style=""background-color: transparent; color: rgb(0, 0, 0);"">4. Curd</span></p><p class=""ql-align-justify""><span style=""background-color: transparent; color: rgb(0, 0, 0);"">5. Butter</span></p><p><br></p><p><br></p>","[{""label"": ""1, 3, 2, 4, 5"", ""value"": ""A""}, {""label"": ""4, 3, 5, 1, 2"", ""value"": ""B""}, {""label"": ""3, 4, 5, 1, 2"", ""value"": ""C""}, {""label"": ""1, 2, 3, 4, 5"", ""value"": ""D""}]"
+851,"<p><img src=""https://d2ny4i6ieyrjfu.cloudfront.net/prod/ASSESSMENT_PROCESSOR/10NPNB_Q 18.png""></p>","[{""label"": ""A"", ""value"": ""A""}, {""label"": ""B"", ""value"": ""B""}, {""label"": ""C"", ""value"": ""C""}, {""label"": ""D"", ""value"": ""D""}, {""label"": ""E"", ""value"": ""E""}]"
+852,"<p><img src=""https://d2ny4i6ieyrjfu.cloudfront.net/prod/ASSESSMENT_PROCESSOR/4G959S_Q 19.png""></p>","[{""label"": ""A"", ""value"": ""A""}, {""label"": ""B"", ""value"": ""B""}, {""label"": ""C"", ""value"": ""C""}, {""label"": ""D"", ""value"": ""D""}, {""label"": ""E"", ""value"": ""E""}]"
+853,"<p><span style=""background-color: transparent; color: rgb(0, 0, 0);"">Which word does NOT belong with others?</span></p><p><br></p><p><br></p>","[{""label"": ""Leopard"", ""value"": ""A""}, {""label"": ""Cougar"", ""value"": ""B""}, {""label"": ""Elephant "", ""value"": ""C""}, {""label"": ""Lion"", ""value"": ""D""}]"
+874,"<p><span style=""background-color:transparent; color:#000000""><img src=""https://d2ny4i6ieyrjfu.cloudfront.net/prod/ASSESSMENT_PROCESSOR/TXTLPT_image8 square.png"" /></span></p>
+
+<p><span style=""background-color:transparent; color:#000000"">Find the number that will replace the question mark.</span></p>","[{""label"": ""3"", ""value"": ""A""}, {""label"": ""4"", ""value"": ""B""}, {""label"": ""5"", ""value"": ""C""}, {""label"": ""6"", ""value"": ""D""}]"
+873,"<p><span style=""background-color:transparent; color:#000000""><img src=""https://d2ny4i6ieyrjfu.cloudfront.net/prod/ASSESSMENT_PROCESSOR/750ED4_image6.png"" /></span></p>
+
+<p><span style=""background-color:transparent; color:#000000"">Solve to replace the question mark with the answer.</span></p>","[{""label"": ""23"", ""value"": ""A""}, {""label"": ""33"", ""value"": ""B""}, {""label"": ""38"", ""value"": ""C""}, {""label"": ""42"", ""value"": ""D""}]"
+871,"<p><span style=""background-color:transparent; color:#000000""><img src=""https://d2ny4i6ieyrjfu.cloudfront.net/prod/ASSESSMENT_PROCESSOR/XL5JDM_image1 faces collage.png"" /></span></p>
+
+<p><span style=""background-color:transparent; color:#000000"">Which portrait should be put instead of the question mark?</span></p>","[{""image"": ""prod/ASSESSMENT_PROCESSOR/O5SNY2_image9.png"", ""label"": ""A"", ""value"": ""A""}, {""image"": ""prod/ASSESSMENT_PROCESSOR/P2S2H4_image3.png"", ""label"": ""B"", ""value"": ""B""}, {""image"": ""prod/ASSESSMENT_PROCESSOR/812IMM_image2.png"", ""label"": ""C"", ""value"": ""C""}, {""image"": ""prod/ASSESSMENT_PROCESSOR/SLSUPY_image7.png"", ""label"": ""D"", ""value"": ""D""}]"
+870,"<p><span style=""background-color:transparent; color:#000000""><img src=""https://d2ny4i6ieyrjfu.cloudfront.net/prod/ASSESSMENT_PROCESSOR/YCH838_image5 equation.jpg"" /></span></p>
+
+<p><span style=""background-color:transparent; color:#000000"">Solve the equation.</span></p>","[{""label"": ""21"", ""value"": ""A""}, {""label"": ""28"", ""value"": ""B""}, {""label"": ""30"", ""value"": ""C""}, {""label"": ""39"", ""value"": ""D""}]"
+885,"<p><span style=""background-color:transparent; color:#000000"">Statement A</span></p>
+
+<p><span style=""background-color:transparent; color:#000000"">Alexa walked straight west for five miles, turned left and walked for two miles, and then turned right and walked for two more miles. She stopped to take a rest midway. She was facing in the direction of the setting sun when she took a break.</span></p>
+
+<p>&nbsp;</p>
+
+<p><span style=""background-color:transparent; color:#000000"">Statement B</span></p>
+
+<p><span style=""background-color:transparent; color:#000000"">Alexa walked straight west for five miles, turned left and walked for two mils, and then turned right and walked four two more miles. She stopped to take a rest midway. She was facing in the direction of the setting sun when she took a break.</span></p>
+
+<p>&nbsp;</p>
+
+<p><span style=""background-color:transparent; color:#000000"">How many words were copied wrong in statement B?</span></p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>","[{""label"": ""0 words"", ""value"": ""A""}, {""label"": ""1 word"", ""value"": ""B""}, {""label"": ""2 words"", ""value"": ""C""}, {""label"": ""3 words"", ""value"": ""D""}]"
+883,"<table border=""1"" cellpadding=""1"" cellspacing=""1"" class=""questions-table"" style=""width:500px"">
+	<tbody>
+		<tr>
+			<td><span style=""background-color:transparent; color:#000000"">Vivek arora </span></td>
+			<td><span style=""background-color:transparent; color:#000000"">Vivek Arrora</span></td>
+		</tr>
+		<tr>
+			<td><span style=""background-color:#ffffff; color:#000000"">1255 34th</span></td>
+			<td><span style=""background-color:#ffffff; color:#000000"">1255 34th</span></td>
+		</tr>
+		<tr>
+			<td><span style=""background-color:#ffffff; color:#000000"">11/05/2018</span></td>
+			<td><span style=""background-color:#ffffff; color:#000000"">11/052018</span></td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p><span style=""background-color:transparent; color:#000000"">﻿How many errors are there in the right column address?</span></p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>","[{""label"": ""0 errors"", ""value"": ""A""}, {""label"": ""1 error"", ""value"": ""B""}, {""label"": ""2 errors"", ""value"": ""C""}, {""label"": ""3 errors"", ""value"": ""D""}]"
+888,"<p><img src=""https://d2ny4i6ieyrjfu.cloudfront.net/prod/ASSESSMENT_PROCESSOR/ZF4XAD_image10.jpg"" /></p>
+
+<p>&nbsp;</p>
+
+<p><span style=""background-color:transparent; color:#000000"">What shape is there inside the circle?</span></p>
+
+<p>&nbsp;</p>","[{""label"": ""Yellow"", ""value"": ""A""}, {""label"": ""Square"", ""value"": ""B""}, {""label"": ""Green"", ""value"": ""C""}, {""label"": ""Triangle"", ""value"": ""D""}]"
+878,"<p><span style=""color:#000000"">Both sides should match exactly. If they don&rsquo;t match select:</span></p>
+
+<table border=""1"" cellpadding=""1"" cellspacing=""1"" class=""questions-table"" style=""width:500px"">
+	<tbody>
+		<tr>
+			<td>Mukesh Chaudhary</td>
+			<td>Mukesh Chaudhry</td>
+		</tr>
+		<tr>
+			<td>381986</td>
+			<td>381086</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>","[{""label"": ""Just in the name"", ""value"": ""A""}, {""label"": ""Just in the phone number"", ""value"": ""B""}, {""label"": ""In both the name and phone number"", ""value"": ""C""}, {""label"": ""In neither"", ""value"": ""D""}]"
+879,"<p><span style=""color:#000000"">If there is a difference, indicate how many of the lines are incorrect: </span></p>
+
+<table border=""1"" cellpadding=""1"" cellspacing=""1"" class=""questions-table"" style=""width:500px"">
+	<tbody>
+		<tr>
+			<td>
+			<p>Fredf@thegreatstore</p>
+			</td>
+			<td>Freds@thegreatstore</td>
+		</tr>
+		<tr>
+			<td>Michaels@naturaltraining</td>
+			<td>Michaels@naturaltraining</td>
+		</tr>
+		<tr>
+			<td>Olesonh@machineomatic</td>
+			<td>Olesonh@machineomatic</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>","[{""label"": ""Just one line"", ""value"": ""A""}, {""label"": ""Two lines"", ""value"": ""B""}, {""label"": ""All three lines"", ""value"": ""C""}, {""label"": ""None of them"", ""value"": ""D""}]"
+875,"<p><span style=""background-color:transparent; color:#333333"">Compare the samples on the left to the samples on the right.</span></p>
+
+<p>&nbsp;</p>
+
+<p><span style=""background-color:transparent; color:#333333"">Select the option on the right side that matches the sample on the left.</span></p>
+
+<p>&nbsp;</p>
+
+<table border=""1"" cellpadding=""1"" cellspacing=""1"" class=""questions-table"" dir=""ltr"" style=""width:500px"">
+	<tbody>
+		<tr>
+			<td><span style=""background-color:#ffffff; color:#333333"">ZY96828</span></td>
+			<td><span style=""background-color:#ffffff; color:#333333""><strong>A.</strong> ZY96288</span></td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td><span style=""background-color:#ffffff; color:#333333""><strong>B.</strong> ZY69828</span></td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td><span style=""background-color:#ffffff; color:#333333""><strong>C.</strong> ZY96828</span></td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td><span style=""background-color:#ffffff; color:#333333""><strong>D.</strong> ZY96882</span></td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>","[{""label"": ""A"", ""value"": ""A""}, {""label"": ""B"", ""value"": ""B""}, {""label"": ""C"", ""value"": ""C""}, {""label"": ""D"", ""value"": ""D""}]"
+886,"<p><span style=""background-color:transparent; color:#000000"">How many of the 5 pairs below are exact duplicates?</span></p>
+
+<table border=""1"" cellpadding=""1"" cellspacing=""1"" class=""questions-table"" style=""width:500px"">
+	<tbody>
+		<tr>
+			<td><span style=""background-color:transparent; color:#000000"">Ramesh Jain</span></td>
+			<td><span style=""background-color:transparent; color:#000000"">Ramesh Jain</span></td>
+		</tr>
+		<tr>
+			<td><span style=""background-color:transparent; color:#000000"">Mercedes</span></td>
+			<td>Mercedez</td>
+		</tr>
+		<tr>
+			<td>Philip Jones</td>
+			<td>Phillip Jones</td>
+		</tr>
+		<tr>
+			<td><span style=""background-color:transparent; color:#000000"">Barnaby Usansky</span></td>
+			<td>Barnaby Usansky</td>
+		</tr>
+		<tr>
+			<td><span style=""background-color:transparent; color:#000000"">Jack Reeder </span></td>
+			<td>Jack Reader</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>","[{""label"": ""1"", ""value"": ""A""}, {""label"": ""2"", ""value"": ""B""}, {""label"": ""3"", ""value"": ""C""}, {""label"": ""4"", ""value"": ""D""}]"
+830,"<p><span style=""background-color:transparent; color:#000000"">The next number in the following sequence would be 3, 5, 8, 13, 21, 34, ___.</span></p>","[{""label"": ""22"", ""value"": ""A""}, {""label"": ""47"", ""value"": ""B""}, {""label"": ""53"", ""value"": ""C""}, {""label"": ""55"", ""value"": ""D""}, {""label"": ""60"", ""value"": ""E""}]"
+823,"<p><span style=""background-color:transparent; color:#000000"">A person can plough a field in 25 days. In how many days will 15 people be able to complete the job?</span></p>","[{""label"": ""2/3 Days"", ""value"": ""A""}, {""label"": ""8/3 days"", ""value"": ""B""}, {""label"": ""1 and ⅔ days"", ""value"": ""C""}, {""label"": "" 2 and 5/3 days "", ""value"": ""D""}, {""label"": ""22"", ""value"": ""E""}]"
